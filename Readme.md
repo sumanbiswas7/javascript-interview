@@ -7,7 +7,7 @@ basic to intermediate level questions and answers, resources to prepare for java
 | No  | Core concepts                                                             |
 | --- | ------------------------------------------------------------------------- |
 | 1   | [Check if the user exists in the given object](#Check-if-the-user-exists) |
-| 2   | [Explain "this" keyword in javascript](#header)                           |
+| 2   | [Explain "this" keyword in javascript](#this-keyword)                     |
 
 ## Answers
 
