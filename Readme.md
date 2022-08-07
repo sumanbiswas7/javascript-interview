@@ -7,7 +7,7 @@ basic to intermediate level questions and answers, resources to prepare for java
 | No  | Core concepts                                                             |
 | --- | ------------------------------------------------------------------------- |
 | 1   | [Check if the user exists in the given object](#Check-if-the-user-exists) |
-| 2   | [Explain "this" keyword in javascript](#this-keyword)                     |
+| 2   | [Explain "this" keyword in javascript](#this-keyword-in-javascript)       |
 
 ## Answers
 
@@ -30,4 +30,13 @@ users.some((user) => user.name === "paul"); //true
 users.some((user) => user.name === "cillian"); //false
 ```
 
-**[⬆ Back to Top](#table-of-contents)**
+<br/>**[⬆ Back to Top](#table-of-contents)**
+
+### This keyword in javascript
+
+in javascript this keyword represents the execution context, basically, the object that's calling the func, there are so many caveats to keep in mind please go through these articles below to get a good understanding of this.
+
+1. [Beginner explaination of this](https://www.youtube.com/watch?v=gvicrj31JOM)
+2. [Intermediate explanation of this](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+
+<br/>**[⬆ Back to Top](#table-of-contents)**
