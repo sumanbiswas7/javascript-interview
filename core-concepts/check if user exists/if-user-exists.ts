@@ -1,5 +1,8 @@
 //? check if user with the given name exists in this users array
-
+interface User {
+  name: string,
+  age: number
+}
 const users = [
   { name: "paul", age: 22 },
   { name: "jerry", age: 18 },
@@ -11,7 +14,7 @@ const users = [
 // approach - 1
 // use filter method
 
-function isUserExists(users, name) {
+function isUserExists(users: User[], name: string) {
   const user = users.filter((user) => user.name === name);
   if (user.length > 0) return true;
   return false;
