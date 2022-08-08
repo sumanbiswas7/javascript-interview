@@ -8,6 +8,7 @@ basic to intermediate level questions and answers, resources to prepare for java
 | --- | ------------------------------------------------------------------------- |
 | 1   | [Check if the user exists in the given object](#Check-if-the-user-exists) |
 | 2   | [Explain "this" keyword in javascript](#this-keyword-in-javascript)       |
+| 3   | [Regular expressions](#regular-expression-in-javascript)                  |
 
 ## Answers
 
@@ -38,5 +39,14 @@ in javascript this keyword represents the execution context, basically, the obje
 
 1. [Beginner explaination of this](https://www.youtube.com/watch?v=gvicrj31JOM)
 2. [Intermediate explanation of this](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+
+<br/>**[⬆ Back to Top](#table-of-contents)**
+
+### Regular expression in javascript
+
+Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. go through these resources below to get a good idea of Regex.
+
+1. [Youtube video of Regex](https://www.youtube.com/watch?v=rhzKDrUiJVk&t=573s)
+2. [Documentation Regex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
 <br/>**[⬆ Back to Top](#table-of-contents)**
